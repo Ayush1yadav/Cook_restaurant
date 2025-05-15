@@ -198,7 +198,7 @@ i{
     height: 500px;
     width: 300px;
     border-radius: 20px;
-    margin-left: 65px;
+    margin-left: 90px;
 }
 .pizza1 div{
     text-align: center;
@@ -208,4 +208,46 @@ i{
     height: 300px;
     width: 300px;
     border-radius: 0px 0px 0px 60px;
+}
+.tag-button{
+    text-align: center;
+}
+.tag-button button{
+    background-color: red;
+    color: white;
+    border: 0px;
+    border-radius: 15px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 25px;
+}
+.about-back{
+    width: 2200px;
+}
+.About-Banner{
+    background-color: black;
+    background-image: url(Assets/About\ Banner.png);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    height: 500px;
+    padding: 1px;
+    margin-top: 50px;
+}
+
+.table{
+    display: flex;
+}
+.form{
+    margin-left: 20px;
+    margin-right: 350px;
+}
+.form form select{
+    padding: 10px 40px 10px 40px;
+    
+    margin-bottom: 10px;
+}
+.form form input{
+    margin-bottom: 10px;
+    padding: 10px 25px 10px 25px;
 }
